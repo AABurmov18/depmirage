@@ -1,0 +1,5 @@
+# Demo requirements for depmirage.
+# One real package, two AI-hallucinated / slopsquatting risks.
+requests>=2.31.0
+aqi-insights==0.4.2          # does not exist on PyPI (hallucinated)
+python-dotenv-secure         # does not exist — lookalike of python-dotenv

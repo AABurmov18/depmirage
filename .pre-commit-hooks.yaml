@@ -1,0 +1,10 @@
+- id: depmirage
+  name: depmirage (slopsquat / hallucinated-dep / secret scan)
+  description: >-
+    Flag AI-hallucinated & typosquatting Python dependencies and hardcoded
+    secrets. Exits non-zero on any finding.
+  entry: depmirage scan
+  language: python
+  pass_filenames: false
+  args: ["."]
+  always_run: true

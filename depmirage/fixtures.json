@@ -1,0 +1,14 @@
+{
+  "_comment": "Offline fixtures for depmirage --offline. Keyed by package name. Secret detection always runs locally (no network), so only registry results are cached here. Covers the example inputs deterministically.",
+  "packages": {
+    "requests": { "exists": true },
+    "urllib3": { "exists": true },
+    "rich": { "exists": true },
+    "flask": { "exists": true },
+    "numpy": { "exists": true },
+    "aqi-insights": { "exists": false },
+    "python-dotenv-secure": { "exists": false },
+    "reqeusts": { "exists": false },
+    "beautifulsou": { "exists": false }
+  }
+}
