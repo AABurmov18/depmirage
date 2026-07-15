@@ -3,7 +3,7 @@
 **Catch AI-hallucinated and slopsquatting Python dependencies before they ship.**
 
 [![CI](https://github.com/AABurmov18/depmirage/actions/workflows/ci.yml/badge.svg)](https://github.com/AABurmov18/depmirage/actions/workflows/ci.yml)
-[![PyPI](https://img.shields.io/pypi/v/depmirage)](https://pypi.org/project/depmirage/)
+[![PyPI](https://img.shields.io/pypi/v/depmirage?cacheSeconds=3600)](https://pypi.org/project/depmirage/)
 [![python](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![os](https://img.shields.io/badge/os-Windows%20%7C%20macOS%20%7C%20Linux-brightgreen)](https://github.com/AABurmov18/depmirage)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
